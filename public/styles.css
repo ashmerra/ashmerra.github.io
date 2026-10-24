@@ -52,6 +52,7 @@ h1 {
 
 .game.koalas { background: linear-gradient(180deg, #d61e26, #8a1016); }
 .game.baja { background: linear-gradient(180deg, #1846b8, #0b2a6b); }
+.game.mcqueen { background: linear-gradient(180deg, #f2560f, #a80d16); }
 
 .game img { border-radius: 10px; }
 
